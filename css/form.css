@@ -1,0 +1,23 @@
+body{
+    background-color: transparent;
+}
+
+.main-content{
+    
+    margin: 10rem;
+}
+.main-content.container{
+        margin: 20rem;
+}
+div.row{
+    padding: 100px;
+}
+h3{
+    color: pink;
+    margin-right:30rem;
+    font-size: x-large;
+}
+
+button:hover{
+    color: tomato;
+}
